@@ -1,4 +1,4 @@
-# PGSS Lecture 2 Repository
+# Lecture 2 Repository
 This repository is meant for learning
 - This is a bullet point
 
